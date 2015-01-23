@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421677681910_3" label="Android" name="Android"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421338660824_0" label="Window Working Set" name="Aggregate for window 1421338660823"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421377200175_1" label="Window Working Set" name="Aggregate for window 1421377200175"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421378535510_2" label="Window Working Set" name="Aggregate for window 1421378535510"/>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421682179227_4" label="Window Working Set" name="Aggregate for window 1421682179227"/>
-<mruList name="Android"/>
 </workingSetManager>
